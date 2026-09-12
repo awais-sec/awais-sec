@@ -14,7 +14,7 @@
 
 ## About Me
 
-B.Sc. Digital Forensics & Cybersecurity student at Lahore Garrison University (expected Mid 2027), actively working as a SOC analyst and DFIR practitioner. I investigate digital crimes, analyze network traffic, and build forensic cases from evidence to report.
+B.Sc. Digital Forensics & Cybersecurity student at Lahore Garrison University (expected Mid 2027), focused on security operations, digital forensics, incident investigation, and practical security analysis.
 
 - **CCFA Certified** — Certified Computer Forensics Analyst, eSecurity Institute (July 2026)
 - **CISA Candidate** — Training completed, ISACA Lahore Chapter (2024)
@@ -40,13 +40,13 @@ Network Analysis          →  Wireshark, packet capture, protocol inspection
 | Repository | Description | Tools |
 |---|---|---|
 | [forensics-lab-reports](./forensics-lab-reports) | 7 CCFA forensic case reports — acquisition, NTFS, registry, SAM, steganography, memory, mobile | Autopsy, Volatility 3, FTK Imager, ADB |
-| [splunk-siem-projects](./splunk-siem-projects) | 7 Splunk SIEM projects — DNS, FTP, HTTP, SSH, Tunnel, SMTP log analysis + reference guide | Splunk, SPL |
-| [python-security-tools](./python-security-tools) | Port scanner, dict attack demo, password validator, Caesar cipher, packet sniffer, TO-DO manager | Python, Scapy |
-| [bash-scripts](./bash-scripts) | LogPattern Analyzer — log parsing, pattern matching, frequency counting | Bash |
-| [security-practicals](./security-practicals) | Network hardening, OS hardening, NIST IR exercise, security audit (ISO 27001 / NIST CSF) | NIST, ISO 27001 |
-| [cheatsheets](./cheatsheets) | Metasploit, PowerShell, Shell scripting reference sheets | Markdown |
-| [ctf-writeups](./ctf-writeups) | TryHackMe room writeups — approach, tools used, key takeaways | Markdown |
-| [web-projects](./web-projects) | Portfolio website source code | HTML, CSS, JS |
+| [splunk-siem-projects](./splunk-siem-projects) | Splunk SIEM projects — DNS, FTP, HTTP, SSH, Tunnel, SMTP log analysis + dashboards | Splunk, SPL |
+| [security-tools](./security-tools) | Working security-focused tools for scanning, analysis, validation, packet capture, and QR reputation checks | Python, Bash, Scapy |
+| [learnstack](./learnstack) | Python and shell scripting learning paths, labs, and practical exercises | Python, Bash, Linux |
+| [security-case-investigations](./security-case-investigations) | Structured investigations covering ransomware, blockchain, darknet cases, and criminal investigations | Blockchain analysis, OSINT, investigation methods |
+| [security-notes](./security-notes) | University coursework and technical study material across cybersecurity and forensics | Markdown |
+| [cheatsheets](./cheatsheets) | Concise quick-reference material for security and command-line topics | Markdown |
+| [presentations](./presentations) | Academic presentations covering forensics, anti-forensics, NTFS, and cybercrime investigations | PowerPoint |
 
 ---
 
@@ -68,11 +68,11 @@ Full reports with methodology and findings in [forensics-lab-reports](./forensic
 
 ## Splunk SIEM Projects
 
-Analyzed real log datasets in Splunk across six protocol categories. Built SPL queries, correlated events, and documented detection findings.
+Analyzed log datasets in Splunk across six protocol categories. Built SPL queries, correlated events, and documented investigation findings.
 
 `DNS` `FTP` `HTTP` `SSH` `Tunnel` `SMTP`
 
-Full reports and SPL queries in [splunk-siem-projects](./splunk-siem-projects).
+Full reports, SPL queries, and dashboards in [splunk-siem-projects](./splunk-siem-projects).
 
 ---
 
@@ -103,7 +103,6 @@ Full credential list with IDs and verify links → [Portfolio Certifications Pag
 - **LinkedIn:** [linkedin.com/in/awais-sec](https://www.linkedin.com/in/awais-sec/)
 - **TryHackMe:** [tryhackme.com/p/Dr.04x](https://tryhackme.com/p/Dr.04x)
 - **Portfolio:** [awais-sec.github.io](https://awais-sec.github.io)
-- **Phone:** +92 307 944 4960
 
 ---
 
