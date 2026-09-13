@@ -36,14 +36,14 @@ Security Automation       →  Python, Bash, practical security tooling
 
 | Repository | Description | Tools |
 |---|---|---|
-| [forensics-lab-reports](./forensics-lab-reports) | 7 CCFA forensic case reports — acquisition, NTFS, registry, SAM, steganography, memory, mobile | Autopsy, Volatility 3, FTK Imager, ADB |
-| [splunk-siem-projects](./splunk-siem-projects) | Splunk SIEM projects — DNS, FTP, HTTP, SSH, Tunnel, SMTP log analysis + dashboards | Splunk, SPL |
-| [security-tools](./security-tools) | Working security-focused tools for scanning, analysis, validation, packet capture, and QR reputation checks | Python, Bash, Scapy |
-| [learnstack](./learnstack) | Python and shell scripting learning paths, labs, and practical exercises | Python, Bash, Linux |
-| [security-case-investigations](./security-case-investigations) | Structured investigations covering ransomware, blockchain, darknet cases, and criminal investigations | Blockchain analysis, OSINT, investigation methods |
-| [security-notes](./security-notes) | University coursework and technical study material across cybersecurity and forensics | Markdown |
-| [cheatsheets](./cheatsheets) | Concise quick-reference material for security and command-line topics | Markdown |
-| [presentations](./presentations) | Academic presentations covering forensics, anti-forensics, NTFS, and cybercrime investigations | PowerPoint |
+| [forensics-lab-reports](https://github.com/awais-sec/forensics-lab-reports) | 7 CCFA forensic case reports — acquisition, NTFS, registry, SAM, steganography, memory, mobile | Autopsy, Volatility 3, FTK Imager, ADB |
+| [splunk-siem-projects](https://github.com/awais-sec/splunk-siem-projects) | Splunk SIEM projects — DNS, FTP, HTTP, SSH, Tunnel, SMTP log analysis + dashboards | Splunk, SPL |
+| [security-tools](https://github.com/awais-sec/security-tools) | Working security-focused tools for scanning, analysis, validation, packet capture, and QR reputation checks | Python, Bash, Scapy |
+| [learnstack](https://github.com/awais-sec/learnstack) | Python and shell scripting learning paths, labs, and practical exercises | Python, Bash, Linux |
+| [security-case-investigations](https://github.com/awais-sec/security-case-investigations) | Structured investigations covering ransomware, blockchain, darknet cases, and criminal investigations | Blockchain analysis, OSINT, investigation methods |
+| [security-notes](https://github.com/awais-sec/security-notes) | University coursework and technical study material across cybersecurity and forensics | Markdown |
+| [cheatsheets](https://github.com/awais-sec/cheatsheets) | Concise quick-reference material for security and command-line topics | Markdown |
+| [presentations](https://github.com/awais-sec/presentations) | Academic presentations covering forensics, anti-forensics, NTFS, and cybercrime investigations | PowerPoint |
 
 ## Forensic Case Files (CCFA)
 
@@ -57,7 +57,7 @@ Security Automation       →  Python, Bash, practical security tooling
 | 06 | Live Memory Forensics | Volatility 3, DumpIt (pslist, malfind, netscan) |
 | 07 | Mobile Forensics via ADB | ADB, Android 13 |
 
-Full reports with methodology and findings in [forensics-lab-reports](./forensics-lab-reports).
+Full reports with methodology and findings in [forensics-lab-reports](https://github.com/awais-sec/forensics-lab-reports).
 
 ## Splunk SIEM Projects
 
@@ -65,7 +65,7 @@ Analyzed log datasets in Splunk across six protocol categories. Built SPL querie
 
 `DNS` `FTP` `HTTP` `SSH` `Tunnel` `SMTP`
 
-Full reports, SPL queries, and dashboards in [splunk-siem-projects](./splunk-siem-projects).
+Full reports, SPL queries, and dashboards in [splunk-siem-projects](https://github.com/awais-sec/splunk-siem-projects).
 
 ## Skills Snapshot
 
