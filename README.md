@@ -1,11 +1,12 @@
 <div align="center">
 
 # Awais Ahmed
-### Security Operations Analyst | DFIR Practitioner
+### Cybersecurity | Digital Forensics & Incident Response
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-awais--sec-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/awais-sec/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_4%25-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Dr.04x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-E05C2A?style=flat-square&logo=firefox)](https://awais-sec.github.io)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Dr.04x)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://awais-sec.medium.com)
+[![Website](https://img.shields.io/badge/Website-AwaisAhmed.dev-E05C2A?style=flat-square&logo=firefox)](https://AwaisAhmed.dev)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=acclaim)](https://www.credly.com/users/awais-sec)
 
 </div>
@@ -17,12 +18,9 @@
 B.Sc. Digital Forensics & Cybersecurity student at Lahore Garrison University (expected Mid 2027), focused on security operations, digital forensics, incident investigation, and practical security analysis.
 
 - **CCFA Certified** — Certified Computer Forensics Analyst, eSecurity Institute (July 2026)
-- **CISA Candidate** — Training completed, ISACA Lahore Chapter (2024)
-- **TryHackMe** — Top 4% globally, 133 rooms, 26 badges, Rank #78,310
+- **CISA Training** — ISACA Lahore Chapter (2024)
+- **TryHackMe** — Hands-on security labs and practical learning
 - **Google Cybersecurity Professional Certificate** — December 2025
-- **28 certifications** earned from 2023 to 2026
-
----
 
 ## What I Work On
 
@@ -31,9 +29,8 @@ SOC & Threat Detection    →  Splunk SIEM, log analysis, alert triage
 Digital Forensics & IR    →  Autopsy, Volatility 3, FTK Imager, MFTECmd
 Vulnerability Assessment  →  OWASP Top 10, OS hardening, network hardening
 Network Analysis          →  Wireshark, packet capture, protocol inspection
+Security Automation       →  Python, Bash, practical security tooling
 ```
-
----
 
 ## Featured Repositories
 
@@ -48,23 +45,19 @@ Network Analysis          →  Wireshark, packet capture, protocol inspection
 | [cheatsheets](./cheatsheets) | Concise quick-reference material for security and command-line topics | Markdown |
 | [presentations](./presentations) | Academic presentations covering forensics, anti-forensics, NTFS, and cybercrime investigations | PowerPoint |
 
----
-
 ## Forensic Case Files (CCFA)
 
 | # | Case | Key Tools |
 |---|---|---|
-| 01 | FTK Imager USB Acquisition | FTK Imager, MD5/SHA1, Write Blocker |
+| 01 | FTK Imager USB Acquisition | FTK Imager, E01, MD5/SHA-1 |
 | 02 | NTFS File System MFT Analysis | Autopsy, MFTECmd, EZTools |
-| 03 | Windows Registry Forensics | Registry Editor, Autopsy, NTUSER.DAT |
-| 04 | SAM Hash Extraction & Password Recovery | pwdump7, Ophcrack, Hash Suite |
+| 03 | Windows Registry Forensics | Autopsy, RegRipper, NTUSER.DAT |
+| 04 | SAM Hash Extraction & Password Recovery | PwDump7, Ophcrack, Hash Suite |
 | 05 | GIF Steganography Detection | gif-steganography, Python |
 | 06 | Live Memory Forensics | Volatility 3, DumpIt (pslist, malfind, netscan) |
 | 07 | Mobile Forensics via ADB | ADB, Android 13 |
 
 Full reports with methodology and findings in [forensics-lab-reports](./forensics-lab-reports).
-
----
 
 ## Splunk SIEM Projects
 
@@ -74,19 +67,15 @@ Analyzed log datasets in Splunk across six protocol categories. Built SPL querie
 
 Full reports, SPL queries, and dashboards in [splunk-siem-projects](./splunk-siem-projects).
 
----
-
 ## Skills Snapshot
 
-**DFIR:** Autopsy, Volatility 3, FTK Imager, MFTECmd, DumpIt, pwdump7, ADB, Ophcrack, Hash Suite  
+**DFIR:** Autopsy, Volatility 3, FTK Imager, MFTECmd, DumpIt, PwDump7, ADB, Ophcrack, Hash Suite  
 **SIEM:** Splunk, Wireshark, Log Analysis (DNS, FTP, HTTP, SSH, SMTP)  
 **IR:** NIST IR Framework, Playbooks, Evidence Documentation  
-**Frameworks:** NIST CSF, ISO 27001, PCI-DSS, OWASP Top 10  
+**Frameworks:** NIST CSF, ISO 27001, OWASP Top 10  
 **Systems:** Linux CLI, Windows CLI, Kali Linux, SQL, Python, Bash  
 
----
-
-## Certifications (Top 5)
+## Certifications (Selected)
 
 - **CCFA** — Certified Computer Forensics Analyst, eSecurity Institute, Jul 2026 · [Verify](https://app.esecurityinstitute.com/certificates/69tf4utp5a)
 - **CISA** — Certificate of Attendance, ISACA Lahore Chapter, Jul 2024
@@ -96,15 +85,13 @@ Full reports, SPL queries, and dashboards in [splunk-siem-projects](./splunk-sie
 
 Full credential list with IDs and verify links → [Portfolio Certifications Page](https://awais-sec.github.io/certifications.html)
 
----
-
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/awais-sec](https://www.linkedin.com/in/awais-sec/)
 - **TryHackMe:** [tryhackme.com/p/Dr.04x](https://tryhackme.com/p/Dr.04x)
-- **Portfolio:** [awais-sec.github.io](https://awais-sec.github.io)
-
----
+- **Medium:** [awais-sec.medium.com](https://awais-sec.medium.com)
+- **Website:** [AwaisAhmed.dev](https://AwaisAhmed.dev)
+- **Credly:** [credly.com/users/awais-sec](https://www.credly.com/users/awais-sec)
 
 <div align="center">
 <sub>B.Sc. Digital Forensics & Cybersecurity · Lahore Garrison University · Expected Mid 2027</sub>
