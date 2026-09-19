@@ -7,7 +7,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Dr.04x)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://awais-sec.medium.com)
 [![Website](https://img.shields.io/badge/Website-AwaisAhmed.dev-E05C2A?style=flat-square&logo=firefox)](https://AwaisAhmed.dev)
-[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=acclaim)](https://www.credly.com/users/awais-sec)
 
 </div>
 
